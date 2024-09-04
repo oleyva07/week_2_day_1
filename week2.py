@@ -6,10 +6,14 @@
 
 # making a change to the file
 
-day_today = input("What day is it ?")
-print("The day is " + day_today)
+# day_today = input("What day is it ?")
+# print("The day is " + day_today)
 
-favorite_holiday = input("What is your favorite holiday?")
-print("My favorite holiday is " + favorite_holiday )
+# favorite_holiday = input("What is your favorite holiday?")
+# print("My favorite holiday is " + favorite_holiday )
 
-print ("The day is" , day_today , "and my favorite holiday is " + favorite_holiday)
+# print ("The day is" , day_today , "and my favorite holiday is " + favorite_holiday)
+
+# string slicing
+word = "hello"
+print(word[1:4])
